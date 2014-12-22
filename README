@@ -1,5 +1,5 @@
 experiment_1
 ============
-Added /lib/npp for editing files in Notepad++
-Added /lib/gimp for editing files in GIMP
-Added /lib/pict for viewing pictures
+Added /bin/npp for editing files in Notepad++
+Added /bin/gimp for editing files in GIMP
+Added /bin/pict for viewing pictures
